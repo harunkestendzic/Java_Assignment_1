@@ -1,0 +1,5 @@
+electronics: 799.99
+furniture: 499.99
+clothing: 39.98
+books: 9.99
+food: 9.90

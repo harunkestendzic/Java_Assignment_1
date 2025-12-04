@@ -1,0 +1,3 @@
+Alice Smith: 839.97
+Charlie Williams: 509.98
+Bob Johnson: 9.90

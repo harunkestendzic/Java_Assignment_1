@@ -1,4 +1,7 @@
 package ba.ssst.edu;
+
+import java.util.Objects;
+
 public class Item implements Comparable<Item> {
     public Item(String name, float price, int quantity, String category) {
         this.name = name;

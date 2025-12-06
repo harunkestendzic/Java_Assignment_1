@@ -1,5 +1,5 @@
 Bananas: 10
 T-Shirt: 2
-Couch: 1
 Laptop: 1
 The Great Gatsby: 1
+Couch: 1

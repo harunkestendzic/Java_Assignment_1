@@ -1,8 +1,8 @@
 Printer Paper: 200
 Bananas: 190
 Shampoo: 150
-Basketball: 100
 Action Figure: 100
+Basketball: 100
 T-Shirt: 98
 The Great Gatsby: 74
 Laptop: 49
